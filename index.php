@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PHP Site</title>
     <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <script src="js/index.js"></script>
 </head>
 <body>
@@ -18,5 +19,6 @@
         <button onclick="tavex()">Tavex</button>
         <button onclick="discord()">Discord</button>
     </div>
+    <a href="https://www.youtube.com/channel/UCG7cHBZsvnveqfkSJUY7cFw" class="fa fa-youtube">
 </body>
 </html>
