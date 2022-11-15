@@ -9,6 +9,9 @@
     <script src="js/index.js"></script>
 </head>
 <body>
+    <div class="noscript">
+        <noscript><h1>Turn on your javascript please</h1></noscript>
+    </div>
     <div class="main">
         <h1>Max H.</h1>
         <h3>Programmer, GameDev and other thing</h3>
