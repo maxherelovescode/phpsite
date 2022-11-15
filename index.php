@@ -13,6 +13,7 @@
         <h1>Max H.</h1>
         <h3>Programmer, GameDev and other thing</h3>
         <button onclick="tavex()">Tavex</button>
+        <button onclick="discord()">Discord</button>
     </div>
 </body>
 </html>
